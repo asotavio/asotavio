@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./led-border.svg" width="100%" alt="Otávio">
+<img src="./led-border.svg?v=2" width="100%" alt="Otávio">
 
 <br>
 
