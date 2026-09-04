@@ -1,19 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=Otávio&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=Otávio&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
 
 <br>
 
 <p>
   <strong>Desenvolvimento de Software</strong>
   &nbsp;•&nbsp;
-  <strong>JavaScript</strong>
+  <strong>Tecnologia</strong>
   &nbsp;•&nbsp;
-  <strong>Python</strong>
+  <strong>Aprendizado Contínuo</strong>
 </p>
 
+<p>
+  Interessado em aprender, desenvolver e enfrentar novos desafios.
+</p>
 
-<br><br>
+<br>
 
 <a href="https://github.com/asotavio">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -33,11 +36,11 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software**, interessado em desenvolvimento de software, tecnologia e construção de soluções práticas.
+Sou estudante de **Engenharia de Software**, apaixonado por tecnologia e interessado em entender como diferentes áreas do desenvolvimento podem se conectar para transformar ideias em soluções reais.
+Tenho contato com diferentes linguagens, frameworks e ferramentas, e atualmente busco ampliar constantemente meus conhecimentos por meio de estudos e projetos práticos.
+Gosto de aprender novas tecnologias, resolver problemas e explorar diferentes formas de desenvolver software. **Não me limito a uma tecnologia específica**: estou aberto a aprender novas ferramentas, linguagens e metodologias de acordo com os desafios e oportunidades.
 
-Atualmente, meu foco está principalmente em **JavaScript e Python**, enquanto desenvolvo conhecimentos em desenvolvimento web, backend, bancos de dados e arquitetura de software.
-
-Busco transformar o conhecimento adquirido nos estudos em projetos reais, evoluindo continuamente minhas habilidades e construindo uma base sólida para minha carreira como desenvolvedor.
+Meu objetivo é construir uma carreira sólida em tecnologia, evoluindo continuamente tanto minhas habilidades técnicas quanto minha capacidade de trabalhar em equipe e contribuir para projetos relevantes.
 
 ---
 
