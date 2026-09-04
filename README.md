@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=180&section=header&text=Otávio&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=58&descSize=18" width="100%" />
+<img src="./led-border.svg" width="100%" alt="Otávio">
 
 <br>
 
@@ -10,10 +10,6 @@
   <strong>Tecnologia</strong>
   &nbsp;•&nbsp;
   <strong>Aprendizado Contínuo</strong>
-</p>
-
-<p>
-  Interessado em aprender, desenvolver e enfrentar novos desafios.
 </p>
 
 <br>
