@@ -3,16 +3,18 @@
 
   <defs>
 
-    <!-- Cor da linha -->
-    <linearGradient id="led" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#238636"/>
-      <stop offset="50%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#238636"/>
-    </linearGradient>
-
-    <!-- Brilho -->
-    <filter id="glow">
+    <!-- Verde LED -->
+    <filter id="greenGlow">
       <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Vermelho LED -->
+    <filter id="redGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -29,7 +31,7 @@
     fill="#0D1117"
   />
 
-  <!-- Borda discreta -->
+  <!-- Borda escura -->
   <rect
     x="3"
     y="3"
@@ -37,11 +39,11 @@
     height="184"
     rx="16"
     fill="none"
-    stroke="#21262D"
+    stroke="#1F2933"
     stroke-width="2"
   />
 
-  <!-- Linha LED -->
+  <!-- LINHA VERDE -->
   <rect
     x="3"
     y="3"
@@ -49,36 +51,67 @@
     height="184"
     rx="16"
     fill="none"
-    stroke="url(#led)"
+    stroke="#39FF88"
     stroke-width="3"
     stroke-linecap="round"
-    stroke-dasharray="1 1000"
-    filter="url(#glow)"
+    stroke-dasharray="0 1000"
+    filter="url(#greenGlow)"
   >
 
-    <!-- A linha cresce até completar a borda -->
+    <!-- Cresce até o primeiro ponto -->
     <animate
       attributeName="stroke-dasharray"
-      values="1 1000;150 850;300 700;500 500;700 300;900 100;1000 0"
-      dur="4s"
-      repeatCount="indefinite"
-    />
-
-    <!-- Depois percorre novamente -->
-    <animate
-      attributeName="stroke-dashoffset"
-      from="0"
-      to="-1000"
-      dur="4s"
+      values="
+        0 1000;
+        180 820;
+        360 640;
+        540 460;
+        720 280;
+        900 100;
+        1000 0;
+        1000 0;
+        1000 0;
+        0 1000
+      "
+      dur="6s"
       repeatCount="indefinite"
     />
 
   </rect>
 
-  <!-- Nome -->
+  <!-- QUADRADO VERMELHO -->
+  <rect
+    x="885"
+    y="0"
+    width="8"
+    height="8"
+    rx="1"
+    fill="#FF3B3B"
+    filter="url(#redGlow)"
+  >
+
+    <!-- Primeiro ponto -->
+    <animate
+      attributeName="x"
+      values="885;450;3;450;885"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+    <!-- Segundo eixo -->
+    <animate
+      attributeName="y"
+      values="0;3;90;184;0"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+
+  </rect>
+
+  <!-- NOME -->
   <text
     x="450"
-    y="92"
+    y="94"
     text-anchor="middle"
     font-family="Arial, Helvetica, sans-serif"
     font-size="48"
@@ -88,10 +121,10 @@
     Otávio
   </text>
 
-  <!-- Subtítulo -->
+  <!-- SUBTÍTULO -->
   <text
     x="450"
-    y="125"
+    y="127"
     text-anchor="middle"
     font-family="Arial, Helvetica, sans-serif"
     font-size="16"
