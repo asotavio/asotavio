@@ -4,11 +4,14 @@
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+constante+evolução;Foco+atual%3A+JavaScript+e+Python"
-  alt="Estudante de Engenharia de Software"
-  width="650"
-/>
+<p>
+  <strong>Desenvolvimento de Software</strong>
+  &nbsp;•&nbsp;
+  <strong>JavaScript</strong>
+  &nbsp;•&nbsp;
+  <strong>Python</strong>
+</p>
+
 
 <br><br>
 
