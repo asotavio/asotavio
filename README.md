@@ -4,16 +4,20 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+constante+evolução;Foco+atual%3A+JavaScript+e+Python;Construindo+projetos+e+adquirindo+experiência" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+em+constante+evolução;Foco+atual%3A+JavaScript+e+Python"
+  alt="Estudante de Engenharia de Software"
+  width="650"
+/>
 
 <br><br>
 
 <a href="https://github.com/asotavio">
-<img src="https://img.shields.io/badge/GitHub-asotavio-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/asotavio">
-<img src="https://img.shields.io/badge/LinkedIn-asotavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br><br>
