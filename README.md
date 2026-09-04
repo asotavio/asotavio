@@ -1,79 +1,66 @@
 <div align="center">
-Olá, eu sou Otávio 👋
-🎓 Estudante de Engenharia de Software
+Otávio
 
-Desenvolvimento de Software • JavaScript • Python • Tecnologia
+Estudante de Engenharia de Software
 
-📍 São Paulo, SP — Brasil
+Desenvolvimento de Software · JavaScript · Python
 
-<br> <a href="https://github.com/asotavio"> <img src="https://img.shields.io/badge/GitHub-asotavio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/asotavio"> <img src="https://img.shields.io/badge/LinkedIn-asotavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div>
-👨‍💻 Sobre mim
+São Paulo, SP · Brasil
 
-Sou estudante de Engenharia de Software, interessado em desenvolvimento de software, tecnologia e construção de soluções que possam resolver problemas reais.
+<br> <a href="https://github.com/asotavio"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> </a> &nbsp; <a href="https://www.linkedin.com/in/asotavio"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </div>
+Sobre mim
 
-Atualmente, estou aprofundando meus conhecimentos principalmente em JavaScript e Python, enquanto amplio minha experiência com desenvolvimento web, backend, bancos de dados e ferramentas utilizadas no mercado.
+Sou estudante de Engenharia de Software e tenho interesse em desenvolvimento de software e tecnologia.
 
-Meu objetivo é evoluir constantemente como desenvolvedor, transformar conhecimento em projetos práticos e construir uma base sólida para minha carreira na área de tecnologia.
+Atualmente, estou focado principalmente em JavaScript e Python, buscando desenvolver projetos práticos e aprimorar meus conhecimentos em desenvolvimento web, backend, bancos de dados e arquitetura de software.
 
-🚀 Atualmente
-🎓 Estudando Engenharia de Software
-💻 Aprofundando conhecimentos em JavaScript e Python
-🌐 Explorando desenvolvimento Full Stack
-🧠 Estudando boas práticas, arquitetura e desenvolvimento de software
-🔨 Transformando estudos em projetos práticos
-📈 Buscando evoluir continuamente como desenvolvedor
-🧰 Tecnologias & Ferramentas
+Meu objetivo é evoluir continuamente como desenvolvedor, transformando aprendizado em projetos reais e construindo uma base sólida para minha carreira na área de tecnologia.
+
+Tecnologias
 Linguagens
-<p> <img src="https://skillicons.dev/icons?i=javascript,python,java,cs,c,cpp,lua,php" alt="Linguagens"> </p>
-Desenvolvimento Web
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,nestjs" alt="Web"> </p>
-Banco de Dados & Infraestrutura
-<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,vercel" alt="Banco de dados e infraestrutura"> </p>
-Ferramentas
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Ferramentas"> </p>
+<p> <img src="https://skillicons.dev/icons?i=javascript,python,java,cs,c,cpp,lua,php" alt="Linguagens de programação"> </p>
+Frameworks e desenvolvimento
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,html,css" alt="Frameworks e tecnologias web"> </p>
+Ferramentas e tecnologias
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,mysql,postgres,vscode,figma" alt="Ferramentas e tecnologias"> </p>
 
-Também utilizo: Notion
+Outras ferramentas: Notion
 
-🎯 Foco atual
-JavaScript  ████████████████████░░  Em aprofundamento
-Python      ██████████████████░░░░  Em aprofundamento
-React       ███████████████░░░░░░░  Aprimorando
-Node.js     ██████████████░░░░░░░░  Aprimorando
-SQL         ████████████░░░░░░░░░░  Estudando
-Docker      ██████████░░░░░░░░░░░░  Explorando
+Atualmente estudando
+JavaScript
+Python
+Desenvolvimento Full Stack
+APIs e desenvolvimento Backend
+SQL e bancos de dados
+Boas práticas e arquitetura de software
+Projeto em destaque
+Controle Financeiro
 
-
-Meu foco é transformar conhecimento teórico em experiência prática através de projetos.
-
-📌 Projeto em destaque
-💰 Controle Financeiro
-
-Aplicação desenvolvida para gerenciamento e organização financeira.
-
-O projeto representa uma das minhas iniciativas para transformar meus estudos em uma aplicação prática, trabalhando conceitos de desenvolvimento de software e construção de interfaces.
+Aplicação desenvolvida com o objetivo de facilitar o controle e a organização das finanças pessoais.
 
 <a href="https://github.com/asotavio/controle-financeiro"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=asotavio&repo=controle-financeiro&theme=tokyonight&hide_border=true" alt="Controle Financeiro"> </a>
-📊 GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asotavio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asotavio&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=asotavio&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </div>
-🌱 Próximos passos
+GitHub
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=asotavio&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asotavio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"> </div>
+Objetivos
 
-Estou construindo minha trajetória na área de tecnologia através de estudos contínuos e projetos próprios.
+Estou buscando constantemente evoluir através de estudos, projetos pessoais e novas experiências.
 
-Entre meus próximos objetivos estão:
+No momento, meus principais objetivos são:
 
-Criar novos projetos para meu portfólio
-Aprofundar meus conhecimentos em JavaScript
-Evoluir em Python
-Desenvolver aplicações Full Stack
+Desenvolver novos projetos para meu portfólio
+Aprofundar meus conhecimentos em JavaScript e Python
+Evoluir no desenvolvimento Full Stack
 Aprimorar conhecimentos em bancos de dados
 Estudar arquitetura e boas práticas de software
-Contribuir com projetos Open Source
-📫 Vamos nos conectar?
-<div align="center"> <a href="https://www.linkedin.com/in/asotavio"> <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/asotavio"> <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
+Começar a contribuir com projetos Open Source
+Contato
+<div align="center"> <a href="https://www.linkedin.com/in/asotavio"> <img src="https://img.shields.io/badge/LinkedIn-asotavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=asotavio&color=5865F2&style=flat-square&label=Visualizações+do+perfil" alt="Visualizações do perfil"> </div>
+<a href="https://github.com/asotavio"> <img src="https://img.shields.io/badge/GitHub-asotavio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
 <div align="center">
-💡 "Aprendendo, construindo e evoluindo um projeto de cada vez."
+
+Obrigado pela visita!
+
 </div>
